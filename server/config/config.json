@@ -1,0 +1,9 @@
+{
+  "development": {
+    "username": "postgres",
+    "password": "Naumchyk1988+",
+    "database": "books_sharing_app",
+    "host": "localhost",
+    "dialect": "postgres"
+  }
+}

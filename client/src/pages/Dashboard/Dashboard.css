@@ -1,0 +1,10 @@
+.avatar {
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-color: transparent;
+    width: 100%;
+    padding: 15px;
+    display: flex;
+    justify-content: space-between;
+}
